@@ -1,0 +1,9 @@
+D:\Conan\ChatStrip\ChatStrip\ChatStrip\bin\Debug\ChatStrip.exe
+D:\Conan\ChatStrip\ChatStrip\ChatStrip\bin\Debug\ChatStrip.pdb
+D:\Conan\ChatStrip\ChatStrip\ChatStrip\obj\x86\Debug\ChatStrip.exe
+D:\Conan\ChatStrip\ChatStrip\ChatStrip\obj\x86\Debug\ChatStrip.pdb
+F:\Conan\ChatStrip\ChatStrip\ChatStrip\obj\x86\Debug\ChatStrip.exe
+F:\Conan\ChatStrip\ChatStrip\ChatStrip\obj\x86\Debug\ChatStrip.pdb
+F:\Conan\ChatStrip\ChatStrip\ChatStrip\bin\Debug\ChatStrip.exe
+F:\Conan\ChatStrip\ChatStrip\ChatStrip\bin\Debug\ChatStrip.pdb
+F:\Conan\ChatStrip\ChatStrip\ChatStrip\obj\x86\Debug\ChatStrip.csprojResolveAssemblyReference.cache
